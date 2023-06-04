@@ -28,9 +28,6 @@ Manual:
 BOM:
 
 - 4 M3x6 or M3x8 SHCS screws
-
 - 4 M3x12 SHCS screws
-
 - 8 M3 heat set inserts (the "standard" ones all voron builds use)
-
 - 2 Hands and some time

@@ -18,15 +18,19 @@ Be carefull when assembling the frame. Do not force the display in, if something
 
 Manual:
 
-Melt in the heat set inserts
-Drink enough water the WHO recommends around 3 liters a day
-Place the buttons on there designated recesses
-Place the display in the frame. Be careful, the buttons can fall out. Don't force the display in if something binds up! Gently press on the edges until the display is flush with the frame
-Screw in the M3 screws
-Congratulations you have assembled the frame! Pat yourself on the shoulder around 2-3 times. Don't overdoo it though
+1. Melt in the heat set inserts
+2. Drink enough water the WHO recommends around 3 liters a day
+3. Place the buttons on there designated recesses
+4. Place the display in the frame. Be careful, the buttons can fall out. Don't force the display in if something binds up! Gently press on the edges until the display is flush with the frame
+5. Screw in the M3 screws
+6. Congratulations you have assembled the frame! Pat yourself on the shoulder around 2-3 times. Don't overdoo it though
+
 BOM:
 
-4 M3x6 or M3x8 SHCS screws
-4 M3x12 SHCS screws
-8 M3 heat set inserts (the "standard" ones all voron builds use)
-2 Hands and some time
+- 4 M3x6 or M3x8 SHCS screws
+
+- 4 M3x12 SHCS screws
+
+- 8 M3 heat set inserts (the "standard" ones all voron builds use)
+
+- 2 Hands and some time

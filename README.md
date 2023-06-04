@@ -2,6 +2,10 @@
 Waveshare 7 Inch (H) Display Frame for the Voron 2.4 (or basically any other printer)
 
 
+![Screenshot 2023-06-04 032127](https://github.com/mtatoglu00/Waveshare-7-Inch-H-Display-Frame/assets/105978894/8a1567a1-a2b2-430f-b03e-5cbb39304cb8)
+
+
+
 You can use this frame for the following screen: https://www.amazon.de/dp/B07CPBCZHB?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 You'll also need the following mount (though you can use any mount you like. You just have to change the mounting points on the lid in the step
